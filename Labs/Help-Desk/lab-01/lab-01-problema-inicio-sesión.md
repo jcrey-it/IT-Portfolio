@@ -10,8 +10,13 @@ Simular la gestión completa de un ticket de Help Desk usando osTicket.
 
 ## Incidente
 Usuario reporta que no puede iniciar sesión en la aplicación interna.
+![Ticket creado](images/ticket-recibido.png)
+
 
 ## Gestión de ticket
+- Clasificación: Prioridad normal
+- Investigación: revisión de credenciales y cambios recientes
+
 ## Resolución
 ## Resultado
 ## Conclusiones
